@@ -1,4 +1,3 @@
-package warmup;
 
 import java.util.*;
 
