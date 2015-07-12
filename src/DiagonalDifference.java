@@ -1,9 +1,4 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 /* Solution to HackerRank Diagonal Difference problem*/
 class DiagonalDifference
@@ -33,8 +28,9 @@ class DiagonalDifference
 					sn.nextInt();
 			}
 		}
-		// System.out.println(sumLeft);
-		// System.out.println(sumRight);
+
 		System.out.println(Math.abs(sumRight-sumLeft));
+		
+		sn.close();
 	}
 }

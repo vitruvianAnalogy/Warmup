@@ -36,6 +36,6 @@ public class TimeConversion {
 		{
 			System.out.println(parts[0]+":"+parts[1]+":"+parts[2].substring(0,2));
 		}
-		
+		sn.close();
 	}
 }

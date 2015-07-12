@@ -102,6 +102,8 @@ public class LibraryFine {
 		
 		System.out.println(fine);
 		
+		sn.close();
+		
 	}
 
 }

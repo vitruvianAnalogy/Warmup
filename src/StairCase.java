@@ -1,8 +1,5 @@
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
 
 public class StairCase {
 
@@ -20,5 +17,6 @@ public class StairCase {
             }
             System.out.print("\n");
         }
+        sn.close();
     }
 }
